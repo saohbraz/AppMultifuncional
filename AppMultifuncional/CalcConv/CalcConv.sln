@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcConv", "CalcConv\CalcConv.csproj", "{A2CA350C-A8F9-445A-91CC-6F8BF1A3C3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CA350C-A8F9-445A-91CC-6F8BF1A3C3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CA350C-A8F9-445A-91CC-6F8BF1A3C3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CA350C-A8F9-445A-91CC-6F8BF1A3C3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CA350C-A8F9-445A-91CC-6F8BF1A3C3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5701A2D6-70DF-41BF-A98B-5B5132EC67D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/bin/Debug/net6.0/CalcConv
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/bin/Debug/net6.0/CalcConv.deps.json
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/bin/Debug/net6.0/CalcConv.runtimeconfig.json
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/bin/Debug/net6.0/CalcConv.dll
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/bin/Debug/net6.0/CalcConv.pdb
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.csproj.AssemblyReference.cache
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.AssemblyInfoInputs.cache
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.AssemblyInfo.cs
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.csproj.CoreCompileInputs.cache
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.dll
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/refint/CalcConv.dll
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.pdb
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/CalcConv.genruntimeconfig.cache
+/Users/hubnerbraz/Desktop/CalculadoraConversorDeMoedas/CalcConv/CalcConv/obj/Debug/net6.0/ref/CalcConv.dll
